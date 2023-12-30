@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\rubin\\Desktop\\JAVA\\JAITA-Workspace\\Libreria.jar",
+        "c:\\Users\\rubin\\Downloads\\mysql-connector-j-8.2.0.jar"
+    ]
+}
