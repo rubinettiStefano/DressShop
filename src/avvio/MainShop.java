@@ -11,7 +11,7 @@ public class MainShop
     public static void main(String[] args) throws Exception
     {
         Database db = new Database(DbUtil.connectToDB("dress_shop"));  
-        
+        //Ciao
         List<Brand> allBrands = db.readAllBrands();
     }
 }
