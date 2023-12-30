@@ -11,7 +11,7 @@ public class Brand
     private String address;
     private int founded_in;
 
-    private List<Dress> dresses;
+    private List<Dress> dresses = new List<Dress>();
     public List<Dress> getDresses() {
         return dresses;
     }
