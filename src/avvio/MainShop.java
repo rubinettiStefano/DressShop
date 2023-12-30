@@ -10,6 +10,7 @@ public class MainShop
 {
     public static void main(String[] args) throws Exception
     {
+        //Ciao sono un cambiamento
         Database db = new Database(DbUtil.connectToDB("dress_shop"));  
         
         List<Brand> allBrands = db.readAllBrands();
